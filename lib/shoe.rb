@@ -6,7 +6,6 @@ class Shoe
   end 
   
   attr_reader :brand, :color, :size, :material, :condition 
-  
-  def cobble
-    puts ""
+ 
+
 end 
